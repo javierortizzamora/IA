@@ -1,0 +1,23 @@
+fecha,archivo,modo,salida,fotogramas,fps_salida,segundos_calculo,fot_por_s,min_calculo_por_min_video,dispositivo,denoise,w_codeformer,encuadre,maquina
+2026-10-30T04:52:23,Antena 3 Noticias 28-09-1992.mp4,lanczos,Antena 3 Noticias 28-09-1992_4K_lanczos_t100-110s.mp4,250,25.000,3.9,64.660,0.39,ffmpeg,,,43,arm64 arm
+2026-10-30T04:52:26,Antena 3 Noticias 28-09-1992.mp4,general,Antena 3 Noticias 28-09-1992_4K_general_t100-110s.mp4,0,25.000,2.2,0.000,0.00,mps,0.5,,43,arm64 arm
+2026-10-30T04:52:29,Antena 3 Noticias 28-09-1992.mp4,x4plus,Antena 3 Noticias 28-09-1992_4K_x4plus_t100-110s.mp4,0,25.000,2.1,0.000,0.00,mps,,,43,arm64 arm
+2026-10-30T04:52:50,Antena 3 Noticias 28-09-1992.mp4,caras,Antena 3 Noticias 28-09-1992_4K_caras_w0.85_t100-110s.mp4,0,25.000,20.4,0.000,0.00,mps,0.5,0.85,43,arm64 arm
+2026-10-30T05:43:41,Antena 3 Noticias 28-09-1992.mp4,lanczos,Antena 3 Noticias 28-09-1992_4K_lanczos_t100-110s.mp4,250,25.000,3.8,65.369,0.38,ffmpeg,,,43,arm64 arm
+2026-10-30T05:44:40,Antena 3 Noticias 28-09-1992.mp4,general,Antena 3 Noticias 28-09-1992_4K_general_t100-110s.mp4,250,25.000,58.3,4.285,5.83,mps,0.5,,43,arm64 arm
+2026-10-30T06:17:05,Antena 3 Noticias 28-09-1992.mp4,x4plus,Antena 3 Noticias 28-09-1992_4K_x4plus_t100-110s.mp4,250,25.000,1943.3,0.129,194.33,mps,,,43,arm64 arm
+2026-10-30T16:43:12,Antena 3 Noticias 28-09-1992.mp4,caras,Antena 3 Noticias 28-09-1992_4K_caras_w0.85_c40-90_t100-110s.mp4,250,25.000,255.9,0.977,25.59,mps,0.5,0.85,43,arm64 arm
+2026-10-30T16:43:18,Antena 3 Noticias 28-09-1992.mp4,lanczos,Antena 3 Noticias 28-09-1992_4K_lanczos_t143-153s.mp4,250,25.000,3.9,64.338,0.39,ffmpeg,,,43,arm64 arm
+2026-10-30T16:44:40,Antena 3 Noticias 28-09-1992.mp4,general,Antena 3 Noticias 28-09-1992_4K_general_t143-153s.mp4,250,25.000,81.4,3.070,8.14,mps,0.5,,43,arm64 arm
+2026-10-30T16:50:17,Antena 3 Noticias 28-09-1992.mp4,caras,Antena 3 Noticias 28-09-1992_4K_caras_w0.85_c0-1_t143-153s.mp4,250,25.000,335.9,0.744,33.59,mps,0.5,0.85,43,arm64 arm
+2026-10-30T16:56:16,Antena 3 Noticias 28-09-1992.mp4,caras,Antena 3 Noticias 28-09-1992_4K_caras_w0.85_c40-90_t143-153s.mp4,250,25.000,357.3,0.700,35.73,mps,0.5,0.85,43,arm64 arm
+2026-10-30T19:08:57,Antena 3 Noticias 28-09-1992.mp4,lanczos,Antena 3 Noticias 28-09-1992_4K_lanczos_t15-56s.mp4,1025,25.000,14.9,68.871,0.36,ffmpeg,,,43,arm64 arm
+2026-10-30T19:14:21,Antena 3 Noticias 28-09-1992.mp4,general,Antena 3 Noticias 28-09-1992_4K_general_t15-56s.mp4,1025,25.000,323.2,3.171,7.88,mps,0.5,,43,arm64 arm
+2026-10-30T19:22:03,Antena 3 Noticias 28-09-1992.mp4,caras,Antena 3 Noticias 28-09-1992_4K_caras_w0.85_c40-90_t36-56s.mp4,500,25.000,461.4,1.084,23.07,mps,0.5,0.85,43,arm64 arm
+2026-10-31T17:51:37,Antena 3 Noticias 28-09-1992.mp4,x4plus,Antena 3 Noticias 28-09-1992_4K_x4plus_t24-36s.mp4,300,25.000,1199.9,0.250,99.99,mps,,,43,arm64 arm
+2026-11-01T00:24:20,Intro_Antena3_1989_640x360.mp4,x4plus,Intro_Antena3_1989_640x360_4K_x4plus.mp4,482,25.000,1843.2,0.262,95.60,mps,,,43,arm64 arm
+2026-11-01T02:40:52,Antena 3 Noticias 28-09-1992.mp4,caras,Antena 3 Noticias 28-09-1992_4K_caras_w0.85_c40-90.mp4,5289,25.000,5725.5,0.924,27.06,mps,0.5,0.85,43,arm64 arm
+2026-11-01T14:53:46,Cortinilla_Antena3_1992.mp4,lanczos,Cortinilla_Antena3_1992_4K_lanczos.mp4,307,30.000,4.6,66.170,0.45,ffmpeg,,,43,arm64 arm
+2026-11-01T14:54:54,Cortinilla_Antena3_1992.mp4,general,Cortinilla_Antena3_1992_4K_general.mp4,307,30.000,67.3,4.561,6.58,mps,0.5,,43,arm64 arm
+2026-11-01T15:20:49,Cortinilla_Antena3_1992.mp4,x4plus,Cortinilla_Antena3_1992_4K_x4plus.mp4,307,30.000,1554.2,0.198,151.88,mps,,,43,arm64 arm
+2026-11-01T19:11:53,Antena3_Noticias_1991_tramo_0-4min_640x480.mp4,caras,Antena3_Noticias_1991_tramo_0-4min_640x480_4K_caras_w0.85_c40-90.mp4,6000,25.000,6064.9,0.989,25.27,mps,0.5,0.85,43,arm64 arm
