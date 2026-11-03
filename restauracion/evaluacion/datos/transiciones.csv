@@ -1,0 +1,14 @@
+id,tipo,inicio_fot,fin_fot,inicio_s,fin_s,descripcion,activaciones_detector
+T1,fundido,440,446,17.60,17.84,Olga Viza (primer plano) a plano general del plató,0
+T2,cortinilla grafica,589,601,23.56,24.04,plató a cabecera animada,0
+T3,cortinilla grafica,893,903,35.72,36.12,cabecera a plano general del plató,0
+T4,fundido,976,985,39.04,39.40,plano general a Olga Viza,0
+T5,corte con fotograma mezclado,1128,1129,45.12,45.16,Olga Viza a plano general,2
+T6,corte con fotograma mezclado,1200,1201,48.00,48.04,plano general a Manuel Campo Vidal,2
+T7,corte con fotograma mezclado,2584,2585,103.36,103.40,Campo Vidal a plano de dos,2
+T8,corte a negro,2627,2627,105.08,105.08,plano de dos a negro,1
+T9,corte desde negro,2640,2640,105.60,105.60,negro a Olga Viza,1
+T10,corte con fotograma mezclado,2747,2748,109.88,109.92,Olga Viza a plano general,2
+T11,corte,2892,2892,115.68,115.68,plano general a Iñaki Gabilondo,1
+T12,fundido,5134,5150,205.36,206.00,Gabilondo a plano de dos,0
+T13,corte con fotograma mezclado,5179,5180,207.16,207.20,plano general a Olga Viza,2
