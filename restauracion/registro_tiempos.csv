@@ -20,7 +20,6 @@ fecha,archivo,modo,salida,fotogramas,fps_salida,segundos_calculo,fot_por_s,min_c
 2026-11-01T14:53:46,Cortinilla_Antena3_1992.mp4,lanczos,Cortinilla_Antena3_1992_4K_lanczos.mp4,307,30.000,4.6,66.170,0.45,ffmpeg,,,43,arm64 arm
 2026-11-01T14:54:54,Cortinilla_Antena3_1992.mp4,general,Cortinilla_Antena3_1992_4K_general.mp4,307,30.000,67.3,4.561,6.58,mps,0.5,,43,arm64 arm
 2026-11-01T15:20:49,Cortinilla_Antena3_1992.mp4,x4plus,Cortinilla_Antena3_1992_4K_x4plus.mp4,307,30.000,1554.2,0.198,151.88,mps,,,43,arm64 arm
-2026-11-01T19:11:53,Antena3_Noticias_1991_tramo_0-4min_640x480.mp4,caras,Antena3_Noticias_1991_tramo_0-4min_640x480_4K_caras_w0.85_c40-90.mp4,6000,25.000,6064.9,0.989,25.27,mps,0.5,0.85,43,arm64 arm
 2026-11-02T11:17:47,Antena 3 Noticias 28-09-1992.mp4,general,Antena 3 Noticias 28-09-1992_4K_general_t60-70s.mp4,250,25.000,53.7,4.657,5.37,mps,0.5,,43,arm64 arm
 2026-11-02T11:17:52,Antena 3 Noticias 28-09-1992.mp4,lanczos,Antena 3 Noticias 28-09-1992_4K_lanczos_t60-70s.mp4,250,25.000,3.8,66.317,0.38,ffmpeg,,,43,arm64 arm
 2026-11-03T03:05:34,Antena 3 Noticias 28-09-1992.mp4,lanczos,Antena 3 Noticias 28-09-1992_4K_lanczos.mp4,5289,25.000,75.8,69.787,0.36,ffmpeg,,,43,arm64 arm
