@@ -12,3 +12,7 @@ Código y documentación del remaster del informativo de Antena 3 (28-09-1992), 
 Los pesos de los modelos no se incluyen; se descargan de sus repositorios oficiales (ver `URLS` en `remaster4k.py`).
 
 Licencias: CodeFormer (S-Lab) solo para uso no comercial; Real-ESRGAN (BSD-3-Clause); RIFE (MIT).
+
+## Cabeceras de informativos (Antena 3, TVE y Telecinco)
+
+En [`cabeceras/`](cabeceras/) está el código del informe técnico sobre la remasterización a 4K y 50 fps de tres cabeceras de informativos de los años dos mil con la misma técnica. El archivo está protegido con contraseña; para obtenerla, escribe a javier.ortiz@ua.es.
